@@ -63,7 +63,7 @@ DON'T USE FOR MINING OR ILLEGAL USE
 
 ### OPTIONAL:
 
-2H: https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true
+1H: https://docs.microsoft.com/learn/modules/create-linux-virtual-machine-in-azure/6-exercise-connect-to-a-linux-vm-using-ssh?activate-azure-sandbox=true
 
 1H: https://docs.microsoft.com/learn/modules/build-a-web-app-with-mean-on-a-linux-vm/3-create-a-vm?activate-azure-sandbox=true
 
